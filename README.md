@@ -37,5 +37,5 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ## Files
 
-- `Forest_Cover_Pred.ipynb` - full notebook with EDA, feature engineering, modeling, and conclusion
-- `forest_cover_extra_trees_tuned.pkl` - saved final model
+`Forest_Cover_Pred.ipynb` - full notebook with EDA, feature engineering, modeling, and conclusion
+`forest_cover_extra_trees_tuned.pkl` - saved final model
